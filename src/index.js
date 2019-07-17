@@ -2,6 +2,8 @@ import bgSrc from './Images/background.png';
 import heroSrc from './Images/hero.png';
 import monsterSrc from './Images/monster.png';
 
+import './style.css';
+
 // create canvas
 const canvas = document.createElement('canvas');
 const ctx = canvas.getContext('2d');

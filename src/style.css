@@ -1,3 +1,17 @@
 .hello {
   color: #f40;
 }
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
